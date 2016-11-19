@@ -1,1 +1,1 @@
-# template_exo_banque
+# exo_banque
